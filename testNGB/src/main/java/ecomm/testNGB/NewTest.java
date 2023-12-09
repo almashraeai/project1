@@ -15,7 +15,7 @@ import org.testng.annotations.AfterMethod;
 public class NewTest {
 	private RemoteWebDriver driver;
 
-	
+	//change
 	@BeforeTest
  public void beforeTest()  throws InterruptedException{
 	 System.out.println("this is befor test");
