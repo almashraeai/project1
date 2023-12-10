@@ -11,7 +11,7 @@ import org.testng.annotations.AfterMethod;
 import org.testng.annotations.AfterTest;
 import org.testng.annotations.BeforeTest;
 
-public class NewTest2 {
+public class NewTest3 {
 	private RemoteWebDriver driver;
 
 	
